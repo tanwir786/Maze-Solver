@@ -1,0 +1,13 @@
+div{
+	float: left;
+	height: 30px;
+	width: 30px;
+	/*border:1px solid black;*/
+}
+#board{
+	height: 600px;
+	width: 600px;
+	margin-left: 32%;
+	margin-top: 5%;
+	border:10px solid black;
+}
