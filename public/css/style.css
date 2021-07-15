@@ -1,0 +1,26 @@
+body{
+    background-color: #4cc9f0;
+}
+ .box{
+    /* display: inline-block; */
+   width: 50px;
+   height:50px; 
+   text-align: center;
+   border: 1px solid black;
+   transition: background-color 0.5s ease-in;
+}
+.myRow{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: #001d3d;
+}
+.topheader {
+    font-family: "Arial Black", sans-serif;
+    padding-left: 95px;
+    font-size: 4.5em;
+    letter-spacing: -1px;
+    background-color: #023047;
+    color: #ffba08;
+   }
